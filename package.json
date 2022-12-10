@@ -1,6 +1,6 @@
 {
     "name": "@solar-republic/argon2-browser",
-    "version": "1.18.0-beta.0",
+    "version": "1.18.0-beta.1",
     "description": "Argon2 library compiled for browser runtime",
     "main": "lib/argon2.js",
     "directories": {
